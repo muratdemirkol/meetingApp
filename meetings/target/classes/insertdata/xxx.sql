@@ -1,0 +1,3 @@
+SET DATABASE SQL SYNTAX ORA TRUE;
+insert into EMPLOYEE (DELETED, INSERT_DTTM, VERSION_DTTM, DEPARTMENT_ID, NAME, SURNAME, ID) values (false,sysdate,sysdate,1000,'Murat','Demirkol',2000);
+insert into EMPLOYEE (DELETED, INSERT_DTTM, VERSION_DTTM, DEPARTMENT_ID, NAME, SURNAME, ID) values (false,sysdate,sysdate,1001,'Yiğit','ÇAKAR',2001);

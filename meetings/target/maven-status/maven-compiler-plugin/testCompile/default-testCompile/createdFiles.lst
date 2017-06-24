@@ -1,0 +1,6 @@
+tr\com\mebitech\dao\test\DepartmentDaoTest.class
+tr\com\mebitech\dao\test\MeetingDaoTest.class
+tr\com\mebitech\dao\test\EmployeeDaoTest.class
+tr\com\mebitech\service\test\MeetingServiceTest.class
+tr\com\mebitech\service\test\DepartmentServiceTest.class
+tr\com\mebitech\service\test\EmployeeServiceTest.class
